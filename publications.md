@@ -2,7 +2,7 @@
 
 ## Working Papers
 
-1. **SockCure: A Hybrid Sockpuppet Detection Framework for Online Political Discussions.** Ming-Hung Wang and *Yu-Chen Dai*.
+1. **FIST: A Structured Threat Modeling Framework for Fraud Incidents**
 
 ## Journal Articles
 
@@ -11,10 +11,13 @@
 
 ## Conference Proceedings
 
-1. **Advancing Stance Detection of Political Fan Pages: A Multimodal Approach.** Kuan-Hung Kuo, Ming-Hung Wang, Hung-Yu Kao and *Yu-Chen Dai*
-2. **Tracking of Disinformation Sources Based on Online Social Media: Examining Pages and URLs with BFS Evolution.** Yi-Hua Guo, Chun-Ming Lai, *Yu-Chen Dai*, Hung-Yu Kao, Chao-Tung Yang. 第三十三屆全國資訊安全會議(CISC2023, 最佳學生論文獎佳作).
-3. **An Empirical Study on Online Sockpuppets Using Social Behaviors.** *Yu-Chen Dai*, Ming-Hung Wang. 第三十一屆全國資訊安全會議(CISC2021, 最佳學生論文獎佳作).
-4. **POSTER: How Do Suspicious Accounts Participate in Online Political Discussions? A Preliminary Study in Taiwan.** Ming-Hung Wang, *Yu-Chen Dai*. ACM ASIACCS 2020.
+1. **開源大型語言模型提示詞變異攻擊脆弱性評估與分析.** 陳履安, *戴毓辰*. 第三十五屆全國資訊安全會議(CISC2025).
+2. **Advancing Stance Detection of Political Fan Pages: A Multimodal Approach.** Kuan-Hung Kuo, Ming-Hung Wang, Hung-Yu Kao and *Yu-Chen Dai*. The Web Conference 2024 (WWW 2024, short paper).
+3. **Tracking of Disinformation Sources Based on Online Social Media: Examining Pages and URLs with BFS Evolution.** Yi-Hua Guo, Chun-Ming Lai, *Yu-Chen Dai*, Hung-Yu Kao, Chao-Tung Yang. 第三十三屆全國資訊安全會議(CISC2023, 最佳學生論文獎佳作).
+4. **An Empirical Study on Online Sockpuppets Using Social Behaviors.** *Yu-Chen Dai*, Ming-Hung Wang. 第三十一屆全國資訊安全會議(CISC2021, 最佳學生論文獎佳作).
+5. **POSTER: How Do Suspicious Accounts Participate in Online Political Discussions? A Preliminary Study in Taiwan.** Ming-Hung Wang, *Yu-Chen Dai*. ACM ASIACCS 2020.
 
 ## Other Writings
-1. **螢幕後的殺手：輿論操作與對抗.** 王銘宏、*戴毓辰* 蘋果日報 2019-12-10
+1. **SockCure: A Hybrid Sockpuppet Detection Framework for Online Political Discussions.** Ming-Hung Wang and *Yu-Chen Dai*.
+2. **螢幕後的殺手：輿論操作與對抗.** 王銘宏、*戴毓辰* 蘋果日報 2019-12-10
+
