@@ -21,3 +21,6 @@
 1. **SockCure: A Hybrid Sockpuppet Detection Framework for Online Political Discussions.** Ming-Hung Wang and *Yu-Chen Dai*.
 2. **螢幕後的殺手：輿論操作與對抗.** 王銘宏、*戴毓辰* 蘋果日報 2019-12-10
 
+## Talks & Teaching
+
+1. **2024 INDO-PACIFIC INFORMATION OPERATIONS.** 2024-08-15
