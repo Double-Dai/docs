@@ -17,10 +17,6 @@
 + Digital Forensics  
 + Disinformation & Scam Detection  
 
-**Contact**
-
-📧 double.dai.0129@gmail.com
-
 **Education**
 
 + M.S. in Computer Science, 2019, Feng Chia University
