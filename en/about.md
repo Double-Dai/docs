@@ -11,11 +11,10 @@
 
 **Interests**
 
-+ Data Analysis  
-+ Threat Intelligence  
-+ Social Network Analysis  
-+ Digital Forensics  
-+ Disinformation & Scam Detection  
+
++ Information Security
++ Social Media Security
++ Multimedia Forensics  
 
 **Education**
 
