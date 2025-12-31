@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 <!-- * [**Home**](/) -->
-* [About](about.md "About")
-* [Experience](experience.md "Experience")
-* [Publications](publications.md "Publications")
+* [關於我](about.md)
+* [工作經歷](experience.md)
+* [著作](publications.md)
