@@ -1,2 +1,2 @@
 - [繁體中文](/)
-- [English](#/en/about)
+- [English](/en/about)
