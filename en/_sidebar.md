@@ -1,3 +1,3 @@
-* [About](/#/en/about.md "About")
-* [Experience](/#/en/experience.md "Experience")
-* [Publications](/#/en/publications.md "Publications")
+* [About](#/en/about)
+* [Experience](#/en/experience)
+* [Publications](#/en/publications)
