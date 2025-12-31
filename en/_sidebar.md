@@ -1,3 +1,3 @@
-* [About](/en/about)
-* [Experience](/en/experience)
-* [Publications](/en/publications)
+* [About](about)
+* [Experience](experience)
+* [Publications](publications)
