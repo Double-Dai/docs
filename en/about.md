@@ -12,7 +12,7 @@
 **Interests**
 
 
-+ Information Security
++ Cyber Security
 + Social Media Security
 + Multimedia Forensics  
 
