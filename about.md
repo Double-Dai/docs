@@ -1,27 +1,27 @@
-# About
+# 關於
 
-> **Yu-Chen Dai** specializes in **digital information analysis**, **abnormal behavior detection on social networks**, and **digital forensics technologies**.  
-> His early work focused on identifying coordinated activities and sockpuppet networks through network structures and user behavior analysis.  
+> **戴毓辰（Yu-Chen Dai）**專長於**數位資訊分析**、**社群網路異常行為偵測**以及**數位鑑識技術**。  
+> 早期研究主要聚焦在透過網路結構與使用者行為分析，辨識協同行動與分身帳號網路。  
 
-> Building on his research experience, he has applied **data-driven and AI-based approaches** to the development of **backend systems and intelligence analysis frameworks** in real-world contexts.  
-> He has represented his team in several **external collaborations and technical exchanges** with **public agencies, fact-checking organizations, and international partners**, helping bridge technical and operational practices and advancing cross-domain cooperation on **cybersecurity and anti-scam intelligence**.  
+> 延續研究經驗，他將**資料驅動與 AI 方法**應用於實務情境中的**後端系統**與**情資分析框架**開發。  
+> 並多次代表團隊與**公部門、事實查核組織與國際合作夥伴**進行對外合作與技術交流，協助銜接技術與實務操作流程，推動在**資安與反詐騙情資**上的跨域合作。  
 
-> In recent years, he has also been involved in **digital content forensics, media verification, and anti-scam intelligence research**, contributing to the development of cross-platform verification and threat intelligence workflows.  
-> He also serves as a **lecturer**, sharing practical experience in **social media analysis, disinformation detection, scam intelligence**, and **AI-assisted verification**.
+> 近年亦投入於**數位內容鑑識、媒體查證與反詐騙情資研究**，協助建構跨平台的查證與威脅情資蒐集流程。  
+> 目前也擔任**講師**，分享在**社群媒體分析、不實訊息偵測、詐騙情資**與**AI 輔助查證**上的實務經驗。
 
-**Interests**
+**研究興趣**
 
-+ Data Analysis  
-+ Threat Intelligence  
-+ Social Network Analysis  
-+ Digital Forensics  
-+ Disinformation & Scam Detection  
++ 資料分析
++ 威脅情資
++ 社群網路分析
++ 數位鑑識
++ 不實與詐騙訊息偵測
 
-**Education**
+**學歷**
 
-+ M.S. in Computer Science, 2019, Feng Chia University
-+ B.S. in Computer Science, 2016, Feng Chia University
++ 逢甲大學 資訊工程學系 碩士, 2019
++ 逢甲大學 資訊工程學系 學士, 2016
 
-**Contact**
+**聯絡方式**
 
 📧 double.dai.0129@gmail.com
