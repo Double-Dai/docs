@@ -26,11 +26,12 @@
 
 1. **2024 INDO-PACIFIC INFORMATION OPERATIONS.** 2024-08-15
 2. **AI 影像鑑識與數位查證工作坊**. 數位素養實驗室 (FactLink). 2025-08-15.
-3. **AI 影像鑑識與數位查證工作坊 (媒體工作者場)**. 數位素養實驗室 (FactLink) 與中央廣播電臺 (RTI) 合辦. 2025-11-27.
+3. **[AI 影像鑑識與數位查證工作坊 (媒體工作者場)](https://www.factlink.tw/p/rti-factlink-journalist-capacity)**. 數位素養實驗室 (FactLink) 與中央廣播電臺 (RTI) 合辦. 2025-11-27.
 
 ## 媒體報導
 
 1. **[外國人誇台灣？ AI虛構影片背後的流量騙局與資訊風險 (受訪)](https://tfc-taiwan.org.tw/fake-foreigners-praise-taiwan-ai-video-clickbait/?fbclid=IwY2xjawPBukFleHRuA2FlbQIxMABicmlkETFhU2gxRHJhYWQ2Y0tNWlRic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpFmVHK8NrlVpR7d8bjA0McYtU-HaHH_d0Zs4wYvZIsXVUkiIyZT4ZZaO8Qx_aem_4TRl_2C1W9mR9BBCgJYNXA)**. 張加. 台灣事實查核中心. 2025-07-29
-2. **[AI深偽影片 台大醫師陳晉興沒有研發肺病藥物 (受訪)](https://tfc-taiwan.org.tw/fact-check-reports/ai-deepfake-uses-ntu-doctor-name-selling-ineffective-lung-treatment/)**. 陳偉婷. 台灣事實查核中心. 2025-11-05
-3. **[AI 假專家狂騙健康與錢包！爸媽最信的「退休名醫」，5 個破綻拆穿 (受訪)](https://www.commonhealth.com.tw/article/93379)**. 邱宜君. 康健雜誌. 2025-12-09
+2. **[美眾院委員會個別社群發文「保障台灣主權」 ，並非美國國會正式聲明 (受訪)](https://tfc-taiwan.org.tw/fact-check-reports/us-house-did-not-declare-taiwan-sovereign-state/)**. 陳培煌. 台灣事實查核中心. 2025-08-21
+3. **[AI深偽影片 台大醫師陳晉興沒有研發肺病藥物 (受訪)](https://tfc-taiwan.org.tw/fact-check-reports/ai-deepfake-uses-ntu-doctor-name-selling-ineffective-lung-treatment/)**. 陳偉婷. 台灣事實查核中心. 2025-11-05
+4. **[AI 假專家狂騙健康與錢包！爸媽最信的「退休名醫」，5 個破綻拆穿 (受訪)](https://www.commonhealth.com.tw/article/93379)**. 邱宜君. 康健雜誌. 2025-12-09
  
